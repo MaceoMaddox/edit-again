@@ -1,3 +1,3 @@
-# Text Editor
+## Text Editor
 
-Progressive Web App with a text editing designation.
+# Progressive Web App with a text editing designation.
